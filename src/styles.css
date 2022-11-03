@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.user {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 10px auto;
+}
+
+.danger {
+    background-color: red;
+    border: 1px solid;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.editcolor {
+    padding: 5px;
+    background-color: #4253d2;
+    border: 1px solid #4253d2;
+    color: #ffffff;
+}
